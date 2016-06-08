@@ -25,8 +25,8 @@
 https://docs.google.com/document/d/1qccdu3X-5nyYyIMhv2AaSpTgduMpinY8Jza3g0CaKow/edit#heading=h.53ven3509q0k
 
 
-<div class="intrinsic-container" style=”height: 600px”>
-<iframe style=”widht: 100%;height:100%;” src="https://docs.google.com/document/d/1qccdu3X-5nyYyIMhv2AaSpTgduMpinY8Jza3g0CaKow/pub?embedded=true"></iframe>
+<div class="intrinsic-container" style=’height: 600px’>
+<iframe style=’widht: 100%;height:100%;’ src="https://docs.google.com/document/d/1qccdu3X-5nyYyIMhv2AaSpTgduMpinY8Jza3g0CaKow/pub?embedded=true"></iframe>
 </div>
 
 Дзякуючы дакументу, сталі зразумелымі прыярытэты, якія ёсьць у кожнага удзельніка. Гэта пасля дапамагло у будучыні, калі падрыхтоўка да фэста ішла поўным ходам і трэ было пераасэнсаваць, што мы паспяваем, а што не.
