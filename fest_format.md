@@ -29,7 +29,7 @@ https://docs.google.com/document/d/1qccdu3X-5nyYyIMhv2AaSpTgduMpinY8Jza3g0CaKow/
 	height: 600px;
 }
 .intrinsic-container iframe {
-	widht: 100%;
+	width: 100%;
 	height:100%;
 }
 </style>
