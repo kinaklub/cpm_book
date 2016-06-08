@@ -24,7 +24,10 @@
 Усе зацікаўленыя сабраліся і выпісалі, чым яны могуць і з якой мэтай займацца на фестывалі атрымаўся такі дакумент
 https://docs.google.com/document/d/1qccdu3X-5nyYyIMhv2AaSpTgduMpinY8Jza3g0CaKow/edit#heading=h.53ven3509q0k
 
+
+<div class="intrinsic-container">
 <iframe src="https://docs.google.com/document/d/1qccdu3X-5nyYyIMhv2AaSpTgduMpinY8Jza3g0CaKow/pub?embedded=true"></iframe>
+</div>
 
 сінема перпетум мобіле: мары і бачанні
 
