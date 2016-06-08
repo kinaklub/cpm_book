@@ -25,32 +25,9 @@
 https://docs.google.com/document/d/1qccdu3X-5nyYyIMhv2AaSpTgduMpinY8Jza3g0CaKow/edit#heading=h.53ven3509q0k
 
 
-<div class="intrinsic-container">
-<iframe src="https://docs.google.com/document/d/1qccdu3X-5nyYyIMhv2AaSpTgduMpinY8Jza3g0CaKow/pub?embedded=true"></iframe>
+<div class="intrinsic-container" style=”height: 600px”>
+<iframe style=”widht: 100%;height:100%;” src="https://docs.google.com/document/d/1qccdu3X-5nyYyIMhv2AaSpTgduMpinY8Jza3g0CaKow/pub?embedded=true"></iframe>
 </div>
-
-сінема перпетум мобіле: мары і бачанні
-
-
-Дзяніс
-сеціўны прынцып пабудовы фестываля каардынатары-валанторы-суполка
-больш плённая праца з рэгіёнамі
-секцыя андэграунднага кіно
-секцыя опенсорс - адчыненай культуры
-
-
-Стас
-новыя падыходы у арганізацыі фестывалю:
-стварэнне іншых стасункаў глядач-валантор-удзельнік фэсту
-
-
-Александр
-Трэба нешта грандыёзнае
-Маштаб павінен быць большы за мінулы
-Паспрабаваць знайсці грошы
-Паспрабаваць завесці сувязі з беларускімі дыяспарам 
-Вера
-Будаваць суполку  кінематаграфісты-валанторы фестывалю
 
 Дзякуючы дакументу, сталі зразумелымі прыярытэты, якія ёсьць у кожнага удзельніка. Гэта пасля дапамагло у будучыні, калі падрыхтоўка да фэста ішла поўным ходам і трэ было пераасэнсаваць, што мы паспяваем, а што не.
 
